@@ -33,41 +33,8 @@ h1 {
     margin: auto;
 }
 
-/* Insira o código abaixo */
 
 .container1 {
     display: flex;
-    justify-content: flex-start;
-
+    flex-direction: row-reverse;
 }
-
-.container2 {
-    display: flex;
-    justify-content: flex-end;
-
-}
-
-.container3 {
-    display: flex;
-    justify-content: center;
-
-}
-
-.container4 {
-    display: flex;
-    justify-content: space-between;
-
-}
-
-.container5 {
-    display: flex;
-    justify-content: space-around;
-
-}
-
-.container6 {
-    display: flex;
-    justify-content: space-evenly;
-
-}
-
